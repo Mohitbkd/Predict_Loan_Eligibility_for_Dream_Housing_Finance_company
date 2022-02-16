@@ -1,0 +1,2 @@
+# Predict_Loan_Eligibility_for_Dream_Housing_Finance_company
+we are solving a real life case study of Dream Housing Finance. The company deals in all home loans. They have a presence across all urban, semi-urban and rural areas. Customers first apply for a home loan after that company validates the customer's eligibility. The company wants to automate the loan eligibility process (real-time) based on customer detail provided while filling online application form.
